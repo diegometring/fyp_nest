@@ -21,12 +21,12 @@ ferramentas necessarias
 Abra um terminal e execute:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/diegometring/fyp_nest.git
 
 ### 2. Clone o Repositório
 
 # Com Yarn
-yarn start:dev
+yarn start
 
 # Ou com NPM
-npm run start:dev
+npm run start
